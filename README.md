@@ -6,14 +6,14 @@ Indian Election Result Analysis Dashboard | Power BI Data Analytics Project
 This dashboard analyzes Indian election results to identify voting trends, political party performance, constituency insights, and regional patterns through interactive visualizations. The purpose of this project is to transform raw election data into meaningful insights that support data-driven understanding of election outcomes.
 
 3. Tech Stack
-Tools & Technologies Used:
+ Tools & Technologies Used:
  Power BI – Interactive dashboard creation and visualization
  Excel / CSV – Data collection and preprocessing
  DAX – Calculated measures and KPIs
- Data Modeling- Relationship established among tables(Constituencywise_details,Constituencywise_Results,partywise_result,Statewise_results,State) to enable crosse filtering and aggregation
- File Formate - .pbix for development and .png for dashboard preview 
+ Data Modeling- Relationship established among  tables(Constituencywise_details,Constituencywise_Results,partywise_result,Statewise_results,State) to enable crosse filtering and  aggregation
+File Formate - .pbix for development and .png for dashboard preview 
 
- 4.Data Source - India General Election Result -2024
+4.Data Source - India General Election Result -2024
 
 5.Feature / Highlights 
 Goal of Dashboard-
